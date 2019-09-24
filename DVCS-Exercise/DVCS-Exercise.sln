@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVCS-Exercise", "DVCS-Exercise\DVCS-Exercise.csproj", "{4FD13FED-BEC0-4EBD-91D4-A128B7B7C063}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVCS-Website", "DVCS-Exercise\DVCS-Website.csproj", "{4FD13FED-BEC0-4EBD-91D4-A128B7B7C063}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
